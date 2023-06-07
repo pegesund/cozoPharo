@@ -1,4 +1,4 @@
 memory usage
-freeString: str
+freeString: s
 
-	^ self ffiCall: #( cozo_free_str #( char * s ) )
+	^ self ffiCall: #( void cozo_free_str #( char * s ) )
