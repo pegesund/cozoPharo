@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "PetterEgesund 6/7/2023 12:23",
+	"super" : "FFILibrary",
+	"category" : "Cozo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "CozoFFI",
+	"type" : "normal"
+}

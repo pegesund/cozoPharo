@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "PetterEgesund 6/7/2023 20:08",
+	"super" : "Object",
+	"category" : "Cozo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"DBCOUNTER"
+	],
+	"instvars" : [
+		"dbId",
+		"db",
+		"path"
+	],
+	"name" : "CozoDb",
+	"type" : "normal"
+}

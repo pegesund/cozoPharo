@@ -1,0 +1,1 @@
+Wrapper for int32 pointer

@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PetterEgesund 6/7/2023 15:42",
+	"super" : "FFIExternalStructure",
+	"category" : "Cozo",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"OFFSET_VAL"
+	],
+	"instvars" : [ ],
+	"name" : "IntWrapper",
+	"type" : "normal"
+}
