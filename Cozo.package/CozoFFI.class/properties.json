@@ -1,7 +1,7 @@
 {
 	"commentStamp" : "PetterEgesund 6/7/2023 12:23",
 	"super" : "FFILibrary",
-	"category" : "Cozo",
+	"category" : "Cozo-Ffi",
 	"classinstvars" : [ ],
 	"pools" : [ ],
 	"classvars" : [ ],

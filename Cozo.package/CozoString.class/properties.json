@@ -1,6 +1,6 @@
 {
-	"commentStamp" : "PetterEgesund 6/7/2023 15:42",
-	"super" : "FFIExternalStructure",
+	"commentStamp" : "PetterEgesund 6/8/2023 13:46",
+	"super" : "FFIStructure",
 	"category" : "Cozo-Wrappers",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -8,6 +8,6 @@
 		"OFFSET_VAL"
 	],
 	"instvars" : [ ],
-	"name" : "IntWrapper",
+	"name" : "CozoString",
 	"type" : "normal"
 }
